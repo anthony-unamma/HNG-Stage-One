@@ -1,0 +1,1 @@
+//Setting up current day of week and current time
